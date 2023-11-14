@@ -11,7 +11,7 @@
 
 ?>
 
-	</div><!-- #content -->
+	</div class="dark:bg-gray-800"><!-- #content -->
 
 	<?php get_template_part( 'template-parts/layout/footer', 'content' ); ?>
 
