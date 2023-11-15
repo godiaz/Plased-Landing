@@ -14,7 +14,7 @@
 <nav class="bg-white border-gray-200 dark:bg-gray-900">
   <div class="px-10 sm:px-10 md:px-20 flex flex-wrap items-center justify-between mx-auto p-4">
     <a href="https://plased.co.uk/" class="flex items-center space-x-2 rtl:space-x-reverse">
-        <img src="http://plased-landing.local/wp-content/uploads/2023/11/logo-plased.png" class="h-8" alt="Plased Logo" />
+        <img src="https://plased.co.uk/wp-content/uploads/2023/11/logo-plased.png" class="h-8" alt="Plased Logo" />
         <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Plased</span>
     </a>
     <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
