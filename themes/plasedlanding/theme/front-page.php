@@ -6,11 +6,9 @@ get_header();
     <div class="flex-col w-full lg:w-full xl:w-1/2 md:w-full sm:w-full 2xl:p-20 xl:p-20 lg:p-20 md:p-20 sm:p-10 sm:pb-0 p-10 pb-0">
         <h1 class="dark:text-white 2xl:leading-snug xl:leading-tight lg:leading-tight md:leading-tight 2xl:text-5xl xl:text-5xl lg:text-5xl md:text-5xl sm:text-4xl text-4xl mb-3 lg:mb-3 md:mb-3 font-extrabold text-black">Finally a CRM for Small Recruitment Companies</h1>
         <p class="dark:text-gray-200 2xl:text-xl lg:text-xl md:text-lg font-light mb-6 text-gray-600">We just want to know if you’re interested. Sign Up below and get our early bird discount.</p>
-        <div class="flex mb-6">
-            <input type="text" id="first_name" class="bg-gray-50 w-1/2 md:w-2/5 lg:w-2/6 xl:w-2/3 border mr-4 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Email Address" required>
-            <button type="button" class="px-5 py-3 text-base font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Submit</button>
-            
-        </div>
+        <?php echo do_shortcode('[contact-form-7 id="bba478c" title="Contact form 1"]') ?>    
+            <!-- <input type="text" id="first_name" class="bg-gray-50 w-1/2 md:w-2/5 lg:w-2/6 xl:w-2/3 border mr-4 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Email Address" required> -->
+            <!-- <button type="button" class="px-5 py-3 text-base font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Submit</button> -->
         <div>
             <ul class="mb-6 max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
                 <li class="flex items-center pb-2">

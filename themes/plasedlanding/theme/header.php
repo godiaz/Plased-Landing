@@ -18,6 +18,9 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.0.0/flowbite.min.js"></script>
 	<script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+	<!-- Start of HubSpot Embed Code -->
+		<script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/139782170.js"></script>
+	<!-- End of HubSpot Embed Code -->
 <script>
   hbspt.forms.create({
     region: "eu1",
